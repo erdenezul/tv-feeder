@@ -1,0 +1,5 @@
+cron:
+- description: weekly update 
+  url: /tvfeed/update
+  schedule: every monday 09:00
+  timezone: Asia/Ulaanbaatar
