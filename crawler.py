@@ -14,13 +14,13 @@ CHANNELS_LIST = [
    {'img_url': 'http://stat.gogo.mn/images/tv/small_c1.gif', 'name':'C1','c_id':9},
    {'img_url': 'http://stat.gogo.mn/images/tv/small_ntv.gif','name':'NTV','c_id':10},
    {'img_url': 'http://stat.gogo.mn/images/tv/small_tv8.gif', 'name':'TV8','c_id':11},
-   {'img_url': 'http://stat.gogo.mn/images/tv/small_magic.gif', 'name':'MGTV','c_id':15},
+   {'img_url': 'http://stat.gogo.mn/images/tv/small_nbs.gif', 'name':'NBS', 'c_id':'15'},
    {'img_url': 'http://stat.gogo.mn/images/tv/small_tm.gif', 'name':u'TM','c_id':12},
    {'img_url': 'http://stat.gogo.mn/images/tv/small_sbn.gif', 'name':'SBN','c_id':13},
    {'img_url': 'http://stat.gogo.mn/images/tv/small_bolovsrol.gif','name':u'БОЛОВСРОЛ','c_id':14},
    {'img_url': 'http://stat.gogo.mn/images/tv/small_eagletv.gif','name':'EagleTV','c_id':17},
    {'img_url': 'http://stat.gogo.mn/images/tv/small_btv.gif','name':'BTV','c_id':16},
-   {'img_url': 'http://stat.gogo.mn/images/tv/small_sch.gif', 'name':'SCH','c_id':18},
+   {'img_url': 'http://stat.gogo.mn/images/tv/small_sch.gif', 'name':u'МОНГОЛ TV','c_id':18},
 ]
 URL = "http://news.gogo.mn/tvguide/content/tv.jsp?tvId=%s&typeId=pro_all&week=%s"
 
